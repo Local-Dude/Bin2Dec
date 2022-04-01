@@ -31,3 +31,5 @@ constraints:
 ## Bonus features
 
 - [x] ~User can enter a variable number of binary digits~
+
+![2022-04-01_20-47-23](https://user-images.githubusercontent.com/77203734/161298864-9f7ced9c-7fc4-4138-96d2-65b447ab08ea.png)
